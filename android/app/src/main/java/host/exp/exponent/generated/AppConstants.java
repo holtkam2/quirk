@@ -91,10 +91,11 @@ public class AppConstants {
         
         
         
+      
       // ADD EMBEDDED RESPONSES HERE
       // START EMBEDDED RESPONSES
       embeddedResponses.add(new Constants.EmbeddedResponse("https://exp.host/@holtkam2/quirk", "assets://shell-app-manifest.json", "application/json"));
-      embeddedResponses.add(new Constants.EmbeddedResponse("https://d1wp6m56sqw74a.cloudfront.net/%40holtkam2%2Fquirk%2F2.2.0%2Fec4bdf9248795fbf85fd5f0bdaa33626-31.0.0-android.js", "assets://shell-app.bundle", "application/javascript"));
+      embeddedResponses.add(new Constants.EmbeddedResponse("https://d1wp6m56sqw74a.cloudfront.net/%40holtkam2%2Fquirk%2F2.2.0%2Fcf67c447ab3e097c36401015984aeb95-31.0.0-android.js", "assets://shell-app.bundle", "application/javascript"));
       // END EMBEDDED RESPONSES
     EMBEDDED_RESPONSES = embeddedResponses;
   }
